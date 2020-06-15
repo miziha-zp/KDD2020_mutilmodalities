@@ -1,0 +1,1 @@
+{"success": true, "score": 0.7027603443728245, "scoreJson": {"score": 0.7027603443728245}}

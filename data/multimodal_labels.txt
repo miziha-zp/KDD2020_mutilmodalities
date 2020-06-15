@@ -1,0 +1,34 @@
+category_id	category_name
+0	top clothes (coat, jacket, shirt, etc.)
+1	skirt & dress
+2	bottom clothes (trousers, pants, etc.)
+3	luggage, leather goods
+4	shoes
+5	accessories (jewelry, clothing accessories, belts, hats, scarves, etc.)
+6	snacks, nuts, liquor and tea
+7	makeup, perfume, beauty tools and essential oils
+8	bottle drink
+9	furniture
+10	stationery
+11	household electrical appliances
+12	home decoration
+13	household fabric
+14	kitchenware
+15	home / personal cleaning tools
+16	storage supplies
+17	motorcycle, motorcycle accessories, vehicles, bicycle and riding equipment
+18	outdoor product
+19	lighting
+20	toys
+21	underwear
+22	digital supplies
+23	bed linens
+24	baby products
+25	personal care
+26	sporting goods
+27	clothes (accessories, baby clothing, etc.)
+28	others
+29	human face
+30	arm
+31	hair
+32	hand
