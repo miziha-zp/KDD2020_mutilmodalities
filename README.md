@@ -2,7 +2,7 @@
 
 **详细的技术报告见[technique_report.pdf](file:///technique_report.pdf)**
 
-本仓库已将各个模型的预测概率上传，可直接运行最后lgb集成部分。
+本仓库已将各个模型的预测概率上传[prob](file:///user_data/embeding_data)，可直接运行最后lgb集成部分。
 
 # 运行说明
 
