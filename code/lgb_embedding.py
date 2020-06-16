@@ -11,6 +11,11 @@ import pandas as pd
 import swifter
 import glob, base64
 from pathlib import Path
+import json
+
+import lightgbm as lgb
+from sklearn.model_selection import KFold
+
 import zipfile
 import os
 from tqdm import tqdm 
@@ -38,10 +43,6 @@ def get_top5_ans(testa_df,result_name):
 # In[3]:
 
 
-import json
-
-import lightgbm as lgb
-from sklearn.model_selection import KFold
 
 
 valid_df = pd.read_csv('../data/valid/valid.tsv', sep='\t')

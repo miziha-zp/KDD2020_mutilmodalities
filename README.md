@@ -1,7 +1,12 @@
 # 运行说明
 **由于NN的训练受到多因素的影响，包括GPU数量及型号，随机数等，下面的可执行代码仅包含embedding部分代码，NN部分在/code下可以找到并运行**
 1. 切换到code目录下
-2. ```bash main.sh``` 运行embedding代码，最终预测的文件将会在```prediction_result```路径下生成
+
+2. ```bash
+   pip install -r requirement.txt
+   ```
+
+3. ```bash main.sh``` 运行embedding代码，最终预测的文件将会在```prediction_result```路径下生成
 
 
 # 文件夹路径及说明
