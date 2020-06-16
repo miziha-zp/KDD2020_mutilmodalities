@@ -18,7 +18,7 @@
 
 3. ```bash main.sh``` ，最终预测的文件将会在```prediction_result```路径下生成
 
-##感谢各位队友的努力！
+## 感谢各位队友的努力！
 
 [zhangqibot](https://github.com/zhangqibot)
 
